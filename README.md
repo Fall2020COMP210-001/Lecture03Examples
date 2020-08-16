@@ -1,1 +1,1 @@
-# Lecture 2 Examples
+# Lecture 3 Examples
